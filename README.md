@@ -89,3 +89,6 @@ VCC and LED  -> is connected to 5V of Arduino
 				    
 				
 				}
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/18613363/bf3b10f8-7d96-11e6-8d6a-82af0423ccce.png)
